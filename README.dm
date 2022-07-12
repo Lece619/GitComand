@@ -9,4 +9,4 @@
 5. git branch cat - 브런치를 만들라는 의미
 6. git checkout -브런치를 옮겨가기 
 
-싫어요
+싫어요 그리고 좋아요
